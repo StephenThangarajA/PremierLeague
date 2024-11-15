@@ -38,9 +38,9 @@ This is a web application that predicts match outcomes in the English Premier Le
 
 ### Frontend Setup
 1. Install Dependencies:
-   ``` npm install
+   ```npm install
 2. Start Development Server:
-   ``` npm run dev
+   ```npm run dev
    
 ### Backend Setup
 1. Install dependencies:
