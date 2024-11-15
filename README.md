@@ -51,7 +51,7 @@ This is a web application that predicts match outcomes in the English Premier Le
 ---
 
 ## Usage
-1. Open the frontend in your browser: The Vite development server will run at http://localhost:3000.
+1. Open the frontend in your browser: The Vite development server will run at http://localhost:5173.
 2. Enter the home and away team names.
 3. Click "Predict" to get the predicted score.
 4. The prediction is powered by the Flask API and displayed on the UI.
